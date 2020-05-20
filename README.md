@@ -1,4 +1,4 @@
-food-diary   v1
+food-diary   v2 dev
 ==========
 
 This application integrates an authentication with Github. You first need
